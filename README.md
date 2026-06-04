@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oshiodupe
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m a Data Analysis
+- 🌱 I’m currently doing my Masters in Information Technology
 - 💞️ I’m looking to collaborate on Data Analysts
 - 📫 How to reach me moiluebbey@gmail.com
 - 😄 Pronouns: She
